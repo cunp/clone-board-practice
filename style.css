@@ -1,5 +1,18 @@
+body{
+    background-color: rgb(253, 251, 249);
+    text-align: center;
+}
+ul{list-style: square;
+ }
 li{
     text-align: center;
-    background-color: rgb(63, 143, 110);
-    
+   
 }
+
+li.pppp
+
+{text-align: end;}
+
+
+
+
